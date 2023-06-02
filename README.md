@@ -4,11 +4,10 @@
 I'm currently a freshman at Cornell University, double majoring in Computer Science and Applied Engineering Physics. 
 
 🔭 I’m currently working on [grapher](https://github.com/farhannaqib/grapher) \
-📚 I’m currently learning OpenGL in C++ \
+📚 I’m currently learning OpenGL in C++
 
 ### Projects
 Some projects below are only available through a request due to academic integrity guidelines. Projects are sorted by time started.
-
 #### Personal Projects - 
 - [grapher](https://github.com/farhannaqib/grapher): A custom graphing GUI that uses OpenGL to graph functions
 - [ScrapeAP](https://github.com/farhannaqib/ScrapeAP): A webscraping script that informed you of AP test scores in 2021
