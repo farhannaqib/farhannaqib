@@ -3,8 +3,8 @@
 
 I'm currently a sophomore at Cornell University, double majoring in Computer Science and Applied Engineering Physics. 
 
-🔭 I’m currently working on [OpenGrapher](https://github.com/farhannaqib/OpenGrapher) \
-📚 I’m currently learning OpenGL in C++
+🔭 I’m currently working on physics simulations in Python \
+📚 I’m currently learning OCaml
 
 ### Projects
 Some projects below are only available through a request due to academic integrity guidelines. Projects are sorted by time started.
