@@ -14,6 +14,7 @@ Some projects below are only available through a request due to academic integri
 - [Efficient Calculator](https://github.com/farhannaqib/efficient-calculator): A calculator that runs efficiently
 
 #### Class and Group Projects - 
+- [OCRaml](https://github.coecis.cornell.edu/sh2276/ocraml): An OCR tool powered by a perceptron in OCaml for CS 3110
 - DSLabs: A series of labs completed after sitting through lectures in CS 5414 - Distributed Computing Principles (available on a private repo)
 - critterworld: A critter simulator GUI that uses custom language and parsing rules to simulate environments, made for CS 2112 (available on a private repo)
 - [sos](https://github.com/farhannaqib/sos): A minimalist operating system designed to run on a Raspberry Pi 4
