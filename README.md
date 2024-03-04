@@ -4,7 +4,7 @@
 I'm currently a sophomore at Cornell University, double majoring in Computer Science and Applied Engineering Physics. 
 
 🔭 I’m currently working on physics simulations in Python \
-📚 I’m currently learning OCaml
+📚 I’m currently learning about low-level programming
 
 ### Projects
 Some projects below are only available through a request due to academic integrity guidelines. Projects are sorted by time started.
@@ -21,19 +21,22 @@ Some projects below are only available through a request due to academic integri
 - Secure Bootloader: A virtual bootloader to deliver encrypted firmware updates, designed for the Beaver Works Summer Institute program (available on a private repo)
 
 ### Coursework
+- CS 4780: Introduction to Machine Learning 
+- CS 3410: Computer Organization and Programming
 - CS 3110: Data Structures and Functional Programming
 - CS 2112: Honors Object-Oriented Programming and Data Structures
 - CS 2800: Discrete Structures
 - MATH 2930: Differential Equations for Engineers
 - MATH 2940: Linear Algebra for Engineers
-- AEP 3610: Introductory Quantum Mechanics
-- AEP 2550: Engineering Quantum Information Hardware
 - AEP 4200: Intermediate Mathematical Physics
+- AEP 3620: Intermediate Quantum Mechanics
+- AEP 3330: Mechanics of Particles and Solid Bodies
+- AEP 2550: Engineering Quantum Information Hardware
 
 ### Skills
-- Proficient in Java, Python, C++, and familiar with Matlab, JavaScript, C++, and C#
+- Proficient in Java, Python, C++, and familiar with MATLAB, JavaScript, C++, and C#
 - Proficient in Git, VSCode, Eclipse, and Linux/Unix systems
-- Familiar with topics in distributed systems, image processing, computer architectures, security protocols, and undergraduate physics
+- Familiar with topics in distributed systems, image processing, graphics programming, computer architectures, security protocols, and undergraduate physics
 
 ### Contact Me!
 Reach out via email, at [fn72@cornell.edu](mailto:fn72@cornell.edu)
