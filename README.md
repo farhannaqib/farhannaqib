@@ -1,7 +1,7 @@
 ## Hi, I'm Farhan 👋 <br/>
 ### About Me
 
-I'm currently a sophomore at Cornell University, double majoring in Computer Science and Applied Engineering Physics. 
+I'm currently a junior at Cornell University, double majoring in Computer Science and Applied Engineering Physics. 
 
 🔭 I’m currently working on physics simulations in Python \
 📚 I’m currently learning about low-level programming
