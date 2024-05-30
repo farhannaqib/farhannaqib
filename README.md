@@ -3,11 +3,14 @@
 
 I'm currently a junior at Cornell University, double majoring in Computer Science and Applied Engineering Physics. 
 
-🔭 I’m currently working on physics simulations in Python \
-📚 I’m currently learning about low-level programming
+🔭 I’m currently working on optimizations for high peformance systems \
+📚 I’m currently learning about 
 
 ### Projects
 Some projects below are only available through a request due to academic integrity guidelines. Projects are sorted by time started.
+### Research - 
+- [SpECTRE](https://github.com/farhannaqib/spectre): An open-source tool for solving problems in astrophysics and gravitational physics. Worked on as an undergraduate researcher at the Numerical Relativity Group @ Cornell University
+
 #### Personal Projects - 
 - [OpenGrapher](https://github.com/farhannaqib/OpenGrapher): A custom graphing GUI that uses OpenGL to graph functions
 - [ScrapeAP](https://github.com/farhannaqib/ScrapeAP): A webscraping script that informed you of AP test scores in 2021
