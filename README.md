@@ -3,7 +3,7 @@
 
 I'm currently a junior at Cornell University, double majoring in Computer Science and Applied Engineering Physics. 
 
-🔭 I’m currently working on optimizations for high peformance systems \
+🔭 I’m currently working on optimizations for high peformance systems
 <!-- 
 📚 I’m currently learning
 -->
