@@ -8,7 +8,7 @@ I'm currently a junior at Cornell University, double majoring in Computer Scienc
 
 ### Projects
 Some projects below are only available through a request due to academic integrity guidelines. Projects are sorted by time started.
-### Research - 
+#### Research - 
 - [SpECTRE](https://github.com/farhannaqib/spectre): An open-source tool for solving problems in astrophysics and gravitational physics. Worked on as an undergraduate researcher at the Numerical Relativity Group @ Cornell University
 
 #### Personal Projects - 
