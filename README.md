@@ -4,7 +4,9 @@
 I'm currently a junior at Cornell University, double majoring in Computer Science and Applied Engineering Physics. 
 
 🔭 I’m currently working on optimizations for high peformance systems \
-📚 I’m currently learning about 
+<!-- 
+📚 I’m currently learning
+-->
 
 ### Projects
 Some projects below are only available through a request due to academic integrity guidelines. Projects are sorted by time started.
