@@ -8,8 +8,6 @@ I'm currently a junior at Cornell University, double majoring in Computer Scienc
 
 ### Projects
 Some projects below are only available through a request due to academic integrity guidelines. Projects are sorted by time started.
-#### Research - 
-- [SpECTRE](https://github.com/farhannaqib/spectre): An open-source tool for solving problems in astrophysics and gravitational physics. Worked on as an undergraduate researcher at the Numerical Relativity Group @ Cornell University
 
 #### Projects - 
 - [OCRaml](https://github.coecis.cornell.edu/sh2276/ocraml): An OCR tool powered by a perceptron in OCaml for CS 3110 (available to Cornell students/faculty/staff)
