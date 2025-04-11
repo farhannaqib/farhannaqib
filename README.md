@@ -21,13 +21,11 @@ Some projects below are only available through a request due to academic integri
 - [Efficient Calculator](https://github.com/farhannaqib/efficient-calculator): A calculator that runs efficiently
 
 ### Coursework
-- CS 4780: Introduction to Machine Learning 
-- CS 3410: Computer Organization and Programming
-- CS 3110: Data Structures and Functional Programming
-- CS 2112: Honors Object-Oriented Programming and Data Structures
-- CS 2800: Discrete Structures
-- MATH 2930: Differential Equations for Engineers
-- MATH 2940: Linear Algebra for Engineers
+- CS 5430: System Security
+- CS 4450: Computer Networks
+- CS 4414: Systems Programming
+- CS 4780: Machine Learning
+- AEP 4380: Computational Physics
 - AEP 4200: Intermediate Mathematical Physics
 - AEP 3620: Intermediate Quantum Mechanics
 - AEP 3330: Mechanics of Particles and Solid Bodies
