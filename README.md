@@ -10,6 +10,7 @@ I'm currently a junior at Cornell University, double majoring in Computer Scienc
 Some projects below are only available through a request due to academic integrity guidelines. Projects are sorted by time started.
 
 #### Projects - 
+- [GravSim](https://github.com/farhannaqib/GravSim): A particle-mesh approach to simulating Newtonian gravity at cosmological scales
 - [OCRaml](https://github.coecis.cornell.edu/sh2276/ocraml): An OCR tool powered by a perceptron in OCaml for CS 3110 (available to Cornell students/faculty/staff)
 - DSLabs: A series of projects, including a multi-server Paxos implemention, done by sitting through lectures in CS 5414 - Distributed Computing Principles (available on a private repo)
 - critterworld: A critter simulator GUI that uses custom language and parsing rules to simulate environments, made for CS 2112 (available on a private repo)
