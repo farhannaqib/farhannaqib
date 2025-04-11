@@ -25,6 +25,8 @@ Some projects below are only available through a request due to academic integri
 - CS 4450: Computer Networks
 - CS 4414: Systems Programming
 - CS 4780: Machine Learning
+- CS 4810: Theory of Computing
+- CS 4820: Algorithms
 - AEP 4380: Computational Physics
 - AEP 4200: Intermediate Mathematical Physics
 - AEP 3620: Intermediate Quantum Mechanics
