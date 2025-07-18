@@ -10,13 +10,13 @@ I'm currently a senior at Cornell University, double majoring in Computer Scienc
 Some projects below are only available through a request due to academic integrity guidelines. Projects are sorted by time started.
 
 #### Projects - 
+- [sos3](https://github.com/farhannaqib/sos3): A minimalist operating system designed to run on a Raspberry Pi 3B
 - [nyc-elections-map](https://github.com/farhannaqib/nyc-elections-map): A web-scraping data visualizer that collects elections data from the 2025 NYC mayoral race
 - [GravSim](https://github.com/farhannaqib/GravSim): A particle-mesh approach to simulating Newtonian gravity at cosmological scales
 - [OCRaml](https://github.coecis.cornell.edu/sh2276/ocraml): An OCR tool powered by a perceptron in OCaml for CS 3110 (available to Cornell students/faculty/staff)
 - DSLabs: A series of projects, including a multi-server Paxos implemention, done by sitting through lectures in CS 5414 - Distributed Computing Principles (available on a private repo)
 - critterworld: A critter simulator GUI that uses custom language and parsing rules to simulate environments, made for CS 2112 (available on a private repo)
 - [OpenGrapher](https://github.com/farhannaqib/OpenGrapher): A custom graphing GUI that uses OpenGL to graph functions
-- [sos](https://github.com/farhannaqib/sos): A minimalist operating system designed to run on a Raspberry Pi 4
 - Secure Bootloader: A virtual bootloader to deliver encrypted firmware updates, designed for the Beaver Works Summer Institute program (available on a private repo)
 - [ScrapeAP](https://github.com/farhannaqib/ScrapeAP): A webscraping script that informed you of AP test scores in 2021
 - [Efficient Calculator](https://github.com/farhannaqib/efficient-calculator): A calculator that runs efficiently
