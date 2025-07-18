@@ -10,7 +10,7 @@ I'm currently a senior at Cornell University, double majoring in Computer Scienc
 Some projects below are only available through a request due to academic integrity guidelines. Projects are sorted by time last worked on.
 
 #### Projects - 
-- [sos3](https://github.com/farhannaqib/sos3): A minimalist operating system designed to run on a Raspberry Pi 3B
+- [pi-mos](https://github.com/farhannaqib/pi-mos): A minimalist operating system designed to run on a Raspberry Pi 3B
 - [nyc-elections-map](https://github.com/farhannaqib/nyc-elections-map): A web-scraping data visualizer that collects elections data from the 2025 NYC mayoral race
 - [GravSim](https://github.com/farhannaqib/GravSim): A particle-mesh approach to simulating Newtonian gravity at cosmological scales
 - [OCRaml](https://github.coecis.cornell.edu/sh2276/ocraml): An OCR tool powered by a perceptron in OCaml for CS 3110 (available to Cornell students/faculty/staff)
