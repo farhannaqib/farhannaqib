@@ -7,7 +7,7 @@ I'm currently a senior at Cornell University, double majoring in Computer Scienc
 📚 I’m currently learning Golang
 
 ### Projects
-Some projects below are only available through a request due to academic integrity guidelines. Projects are sorted by time started.
+Some projects below are only available through a request due to academic integrity guidelines. Projects are sorted by time last worked on.
 
 #### Projects - 
 - [sos3](https://github.com/farhannaqib/sos3): A minimalist operating system designed to run on a Raspberry Pi 3B
