@@ -3,7 +3,7 @@
 
 I'm currently a senior at Cornell University, majoring in Computer Science and Applied Engineering Physics. 
 
-🔭 I’m currently working on embedded systems \
+🔭 I’m currently working on embedded systems
 
 ### Projects
 Projects of note are listed below. Some projects are only available through a request due to academic integrity guidelines.
