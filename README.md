@@ -1,7 +1,7 @@
 ## Hi, I'm Farhan 👋 <br/>
 ### About Me
 
-I'm currently a senior at Cornell University, majoring in Computer Science and Applied Engineering Physics. 
+I'm currently a senior at Cornell University, majoring in Computer Science and Applied Engineering Physics. Website is [here](https://farhannaqib.github.io).
 
 🔭 I’m currently working on embedded systems
 
