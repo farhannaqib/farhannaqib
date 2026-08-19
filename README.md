@@ -9,6 +9,7 @@ I'm currently a senior at Cornell University, majoring in Computer Science and A
 Projects of note are listed below. Some projects are only available through a request due to academic integrity guidelines.
 
 #### Projects - 
+- [PicoWiimote](https://ece4760.github.io/Projects/Fall2025/eu52_fn72/index.html) A Bluetooth-based program that connects a Wii Remote to a Raspberry Pi Pico
 - [pi-mos](https://github.com/farhannaqib/pi-mos): A minimalist operating system designed to run on a Raspberry Pi 3B
 - [nyc-elections-map](https://github.com/farhannaqib/nyc-elections-map): A web-scraping data visualizer that collects elections data from the 2025 NYC mayoral race
 - [GravSim](https://github.com/farhannaqib/GravSim): A particle-mesh approach to simulating Newtonian gravity at cosmological scales
@@ -19,6 +20,7 @@ Projects of note are listed below. Some projects are only available through a re
 
 ### Coursework
 - CS 4110: Programming Languages
+- CS 4120: Compilers
 - CS 4450: Computer Networks
 - CS 4414: Systems Programming
 - CS 4780: Machine Learning
